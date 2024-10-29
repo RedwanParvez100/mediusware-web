@@ -2,7 +2,7 @@ import React from "react";
 import logo from "../../public/images/Logo.png";
 export const NavBar = () => {
     return (
-        <div className="bg-gray-500 ">
+        <div className="bg-slate-900">
             <div className="navbar container mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -31,11 +31,11 @@ export const NavBar = () => {
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
                         >
                             <li>
-                                <a>Home</a>
+                                <a className="underline text-white">Home</a>
                             </li>
                             <li>
-                                <a>Services</a>
-                                <ul className="p-2">
+                                <a className="text-white">Services</a>
+                                <ul className="p-2 bg-slate-900 text-white">
                                     <li>
                                         <a>Web Development</a>
                                     </li>
@@ -48,13 +48,13 @@ export const NavBar = () => {
                                 </ul>
                             </li>
                             <li>
-                                <a>Projects</a>
+                                <a className="text-white">Projects</a>
                             </li>
                             <li>
-                                <a>About Us</a>
+                                <a className="text-white">About Us</a>
                             </li>
                             <li>
-                                <a>Contact Us</a>
+                                <a className="text-white">Contact Us</a>
                             </li>
                         </ul>
                     </div>
@@ -65,12 +65,14 @@ export const NavBar = () => {
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
                         <li>
-                            <a>Home</a>
+                            <a className="underline text-white">Home</a>
                         </li>
                         <li>
                             <details>
-                                <summary>Services</summary>
-                                <ul className="p-2">
+                                <summary className="text-white">
+                                    Services
+                                </summary>
+                                <ul className="p-2 bg-slate-900 text-white">
                                     <li>
                                         <a>Web Development</a>
                                     </li>
@@ -84,18 +86,20 @@ export const NavBar = () => {
                             </details>
                         </li>
                         <li>
-                            <a>Projects</a>
+                            <a className="text-white">Projects</a>
                         </li>
                         <li>
-                            <a>About Us</a>
+                            <a className="text-white">About Us</a>
                         </li>
                         <li>
-                            <a>Contact Us</a>
+                            <a className="text-white">Contact Us</a>
                         </li>
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn ">Get a Schedule</a>
+                    <a className="btn bg-slate-900 text-white ">
+                        Get a Schedule
+                    </a>
                     <div className="dropdown dropdown-end">
                         <div
                             tabIndex={0}
@@ -122,11 +126,11 @@ export const NavBar = () => {
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
                         >
                             <li>
-                                <a>Home</a>
+                                <a className="underline text-white">Home</a>
                             </li>
                             <li>
-                                <a>Services</a>
-                                <ul className="p-2">
+                                <a className="text-white">Services</a>
+                                <ul className="p-2 bg-slate-900 text-white">
                                     <li>
                                         <a>Web Development</a>
                                     </li>
