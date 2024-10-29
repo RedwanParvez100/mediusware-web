@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
     return (
-        <div className="banner py-44 text-center bg-slate-900">
+        <div className="banner py-52 text-center bg-slate-900">
             <p className="text-8xl text-white font-bold">
                 Transforming Your Ideas <br />
                 into
