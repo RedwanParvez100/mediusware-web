@@ -7,6 +7,9 @@ import Banner from "./components/Banner";
 import Card from "./components/Card";
 import { IoArrowForward } from "react-icons/io5";
 import Services from "./components/Services";
+import Peoples from "./components/Peoples";
+import Projects from "./components/Projects";
+import Awards from "./components/Awards";
 
 function App() {
     const [count, setCount] = useState(0);
@@ -39,6 +42,9 @@ function App() {
                 </div>
             </div>
             <Services />
+            <Peoples />
+            <Projects />
+            <Awards />
         </>
     );
 }
