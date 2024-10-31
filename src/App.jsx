@@ -10,6 +10,8 @@ import Services from "./components/Services";
 import Peoples from "./components/Peoples";
 import Projects from "./components/Projects";
 import Awards from "./components/Awards";
+import Info from "./components/Info";
+import Footer from "./components/Footer";
 
 function App() {
     const [count, setCount] = useState(0);
@@ -45,6 +47,8 @@ function App() {
             <Peoples />
             <Projects />
             <Awards />
+            <Info />
+            <Footer />
         </>
     );
 }
