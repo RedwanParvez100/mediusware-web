@@ -6,7 +6,7 @@ const Banner = () => {
             <p className="text-8xl text-white font-bold">
                 Transforming Your Ideas <br />
                 into
-                <span className="text-green-500"> Digital Outcomes</span>
+                <span className="text-[#2EB8A2]"> Digital Outcomes</span>
             </p>
             <br />
             <p className="text-lg text-white">

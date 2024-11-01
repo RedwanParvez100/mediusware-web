@@ -39,11 +39,11 @@ const Services = () => {
                         <img src="./images/planning.png" alt="" />
                         <div className="mt-4 lg:mt-11">
                             <h5 className="text-2xl font-semibold mb-3">
-                                Planning
+                                Defining
                             </h5>
                             <p>
-                                Collaborate with clients to create a detailed
-                                project plan.
+                                Document project requirements and
+                                specifications.
                             </p>
                         </div>
                     </div>
@@ -51,11 +51,11 @@ const Services = () => {
                         <img src="./images/planning.png" alt="" />
                         <div className="mt-4 lg:mt-11">
                             <h5 className="text-2xl font-semibold mb-3">
-                                Planning
+                                Designing
                             </h5>
                             <p>
-                                Collaborate with clients to create a detailed
-                                project plan.
+                                Develop and refine user-friendly prototypes and
+                                wireframes.
                             </p>
                         </div>
                     </div>
@@ -63,11 +63,11 @@ const Services = () => {
                         <img src="./images/planning.png" alt="" />
                         <div className="mt-4 lg:mt-11">
                             <h5 className="text-2xl font-semibold mb-3">
-                                Planning
+                                Coding & Implement
                             </h5>
                             <p>
-                                Collaborate with clients to create a detailed
-                                project plan.
+                                Develop the software using best practices and
+                                latest technologies.
                             </p>
                         </div>
                     </div>
@@ -75,11 +75,11 @@ const Services = () => {
                         <img src="./images/planning.png" alt="" />
                         <div className="mt-4 lg:mt-11">
                             <h5 className="text-2xl font-semibold mb-3">
-                                Planning
+                                Testing
                             </h5>
                             <p>
-                                Collaborate with clients to create a detailed
-                                project plan.
+                                Rigorously test for functionality, performance,
+                                and security.
                             </p>
                         </div>
                     </div>
@@ -87,11 +87,11 @@ const Services = () => {
                         <img src="./images/planning.png" alt="" />
                         <div className="mt-4 lg:mt-11">
                             <h5 className="text-2xl font-semibold mb-3">
-                                Planning
+                                Integration
                             </h5>
                             <p>
-                                Collaborate with clients to create a detailed
-                                project plan.
+                                Integrate components, conduct final testing, and
+                                provide support.
                             </p>
                         </div>
                     </div>
