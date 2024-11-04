@@ -3,7 +3,7 @@ import React from "react";
 const Peoples = () => {
     return (
         <div className="bg-[#F0F8FF] p-20">
-            <div className="container mx-auto mt-10 text-center py-16">
+            <div className="container mx-auto text-center py-16">
                 <h1 className="text-6xl font-bold">
                     What the People{" "}
                     <span className="text-[#2EB8A2]">Are Saying</span>

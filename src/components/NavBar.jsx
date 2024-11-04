@@ -2,8 +2,8 @@ import React from "react";
 import logo from "../../public/images/Logo.png";
 export const NavBar = () => {
     return (
-        <div className="bg-slate-900">
-            <div className="navbar container mx-auto">
+        <div className="container relative mx-auto z-50">
+            <div className="navbar absolute left-0 w-full text-white">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <div

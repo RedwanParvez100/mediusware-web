@@ -1,4 +1,5 @@
 import React from "react";
+import { IoArrowForward } from "react-icons/io5";
 
 const Projects = () => {
     return (
@@ -20,7 +21,10 @@ const Projects = () => {
                         </p>
                     </div>
                     <div className="col-span-2 flex items-end  justify-end">
-                        <button className="btn btn-primary">See All</button>
+                        <button className="btn px-6 btn-info text-white">
+                            See All
+                            <IoArrowForward />
+                        </button>
                     </div>
                 </div>
             </div>
