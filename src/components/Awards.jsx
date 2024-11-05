@@ -6,9 +6,9 @@ import img4 from "/images/swd.jpg";
 
 const awards = () => {
     return (
-        <div className="bg-[#F0F8FF] mt-16 p-10 mx-auto">
+        <div className="bg-[#F0F8FF] mt-16 p-10 mx-auto px-3 md:px-0">
             <div className="mt-16 text-center">
-                <h1 className="font-bold text-6xl">
+                <h1 className="font-bold text-4xl">
                     Achievements{" "}
                     <span className="text-[#2EB8A2]"> & Awards</span>
                 </h1>

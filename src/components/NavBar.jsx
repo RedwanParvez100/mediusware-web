@@ -98,7 +98,7 @@ export const NavBar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn bg-slate-900 text-white font-bold">
+                    <a className="btn bg-slate-900 text-white font-bold hidden lg:flex">
                         <CiCalendar className="text-2xl" /> Get a Schedule
                     </a>
                     <div className="dropdown dropdown-end">

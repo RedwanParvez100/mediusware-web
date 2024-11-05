@@ -28,7 +28,7 @@ function App() {
         <>
             <NavBar />
             <Banner />
-            <div className="container mx-auto py-8 md:py-16 lg:py-28">
+            <div className="container mx-auto py-8 md:py-16 lg:py-28 px-3 md:px-0">
                 <div>
                     <h2 className="text-xl md:text-3xl lg:text-5xl text-center font-semibold">
                         Things We’re{" "}

@@ -4,13 +4,13 @@ import { FiPhoneCall } from "react-icons/fi";
 
 const About = () => {
     return (
-        <div className=" py-28 bg-[#F0F8FF] ">
-            <div className="container mx-auto relative">
+        <div className=" py-28 bg-[#F0F8FF]">
+            <div className="container mx-auto relative px-3 md:px-0">
                 <div className="w-full lg:w-[703px] border-green-700 lg:relative">
                     <div className="relative rounded-2xl overflow-hidden">
                         <img
                             className="w-full"
-                            src="http://surl.li/wneybf"
+                            src="https://s3-alpha-sig.figma.com/img/b5ee/23f2/fdc9294203beb24dd2b5062c13eeaf5b?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VcfU17F0ZRfT7xOWrXwx8AQx4CPC~F6pBwd8wV1cjyr9RZPaDaW4S3xrEQ0sC-pu8RlVLPVbCMNAp4bT6JBIspKg2u~YaZ~IdSJLSns9lXF-UHLxTFS3qs3pkF2KPWv3fh4wgevpkndCwFqd9EXnQJhB9M2AfIXCO-q3vQg8Ya2FLf87-albuvpl5KAQyHsoim025Tc01fLdFlgsGoktT35j4sfo~CDfBHUojobs3Qoq8NpeUaqNVDofRV7-NxLRT74ztcVTDAmoPCsJVXA05KdJJy6Eadd1l8U87550pck9QdLhZ4NV0gU7rfjrbjhhDZ1in9m2434zbiGBgjOEEA__"
                             alt=""
                         />
                         <img

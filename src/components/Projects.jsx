@@ -14,8 +14,8 @@ import { Pagination, Autoplay } from "swiper/modules";
 
 const Projects = () => {
     return (
-        <div className="container mx-auto px-2 md:px-0 py-16 lg:py-24">
-            <div className="grid gap-4 grid-cols-12">
+        <div className="container mx-auto py-16 lg:py-24 px-3 md:px-0">
+            <div className="grid gap-4 grid-cols-12 ">
                 <div className="col-span-12 md:col-span-10">
                     <h3 className="text-xl mb-6 font-semibold  md:font-bold md:text-3xl lg:text-5xl">
                         Projects We’d Hang on

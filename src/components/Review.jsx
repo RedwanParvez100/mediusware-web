@@ -13,7 +13,7 @@ import { Pagination, Autoplay } from "swiper/modules";
 const Review = () => {
     return (
         <div className="bg-[#F0F8FF] py-16 lg:py-28">
-            <div className="container mx-auto px-2 md:px-0">
+            <div className="container mx-auto px-3 md:px-0">
                 <div className="md:w-10/12 lg:w-8/12 mx-auto mb-16">
                     <div className="text-center ">
                         <h3 className="text-xl mb-6 font-semibold md:font-bold md:text-3xl lg:text-5xl">
