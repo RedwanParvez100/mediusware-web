@@ -19,14 +19,14 @@ const Banner = () => {
                         into{" "}
                         <span className="text-[#2EB8A2]">Digital Outcomes</span>
                     </h1>
-                    <p className="py-6">
+                    <p className="py-6 mt-5">
                         Our global journey needs your expertise. Align with our
                         brand ethos and help us reach new heights across the
                         world.
                     </p>
-                    <button className="btn px-6 btn-info text-white">
+                    <button className="btn px-6 btn-info text-white mt-7">
                         <FiPhoneCall />
-                        Contact Us
+                        Talk to Someone
                     </button>
                 </div>
             </div>

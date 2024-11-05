@@ -7,7 +7,7 @@ import Banner from "./components/Banner";
 import Card from "./components/Card";
 import { IoArrowForward } from "react-icons/io5";
 import Services from "./components/Services";
-import Peoples from "./components/Peoples";
+// import Peoples from "./components/Peoples";
 import Projects from "./components/Projects";
 import Awards from "./components/Awards";
 import Info from "./components/Info";
@@ -19,6 +19,7 @@ import appImg from "../public/images/mobile.jfif";
 import solutionImg from "../public/images/ecommerce.jfif";
 import uiImg from "../public/images/uiux.jfif";
 import apiImg from "../public/images/api.jfif";
+import Review from "./components/Review";
 
 function App() {
     const [count, setCount] = useState(0);
@@ -88,7 +89,8 @@ function App() {
             </div>
             <About />
             <Services />
-            <Peoples />
+            <Review />
+            {/* <Peoples /> */}
             <Projects />
             <Awards />
             <Info />

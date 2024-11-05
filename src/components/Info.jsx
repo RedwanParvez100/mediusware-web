@@ -1,10 +1,11 @@
 import React from "react";
 import { IoIosArrowForward } from "react-icons/io";
+import { IoSendSharp } from "react-icons/io5";
 
 const Info = () => {
     return (
         <div className="container mx-auto my-28 rounded-xl">
-            <div className="flex flex-col lg:flex-row justify-between items-center p-4 md:p-16 bg-[#072B4A]">
+            <div className="flex flex-col lg:flex-row justify-between items-center p-4 md:p-16 bg-[#072B4A] rounded-xl">
                 <div className="text-white">
                     <h3 className="text-[18px] md:text-xl lg:text-3xl font-semibold">
                         Want to know what we are up to?
@@ -46,16 +47,18 @@ const Info = () => {
                             </p>
                             <p>
                                 Fill in the form or send us an email to
-                                “info@mediusware.com”
+                                <span className="text-[#0C98EB] font-semibold underline">
+                                    “info@mediusware.com”
+                                </span>
                             </p>
-                            <h3 className="text-xl font-semibold my-8">
+                            <h3 className="text-xl font-bold my-8">
                                 Talk to you in less than 24hs.
                             </h3>
                         </div>
 
                         <div className="bg-[#F0F8FF] p-6 rounded-lg">
                             <div>
-                                <h5 className="font-semibold">Book a call</h5>
+                                <h5 className="font-bold">Book a call</h5>
                                 <p>
                                     Feel free to select a time at your
                                     convenience!
@@ -91,7 +94,7 @@ const Info = () => {
                                     <input
                                         id="username"
                                         type="text"
-                                        placeholder="Enter your name"
+                                        placeholder="Enter Your Name"
                                         className="block w-full px-4 py-2 mt-2 rounded-md outline-none   "
                                     />
                                 </div>
@@ -105,21 +108,21 @@ const Info = () => {
                                     <input
                                         id="name"
                                         type="text"
-                                        placeholder="Enter your name"
+                                        placeholder="Enter Your Email"
                                         className="block w-full px-4 py-2 mt-2 rounded-md outline-none   "
                                     />
                                 </div>
                                 <div>
-                                    <label
-                                        className="font-medium"
-                                        htmlFor="username"
-                                    >
-                                        Phone Number (Optional)
+                                    <label htmlFor="username">
+                                        <span className="font-medium">
+                                            Phone Number
+                                        </span>{" "}
+                                        (Optional)
                                     </label>
                                     <input
                                         id="username"
                                         type="text"
-                                        placeholder="Enter your name"
+                                        placeholder="Enter Your Phone Number"
                                         className="block w-full px-4 py-2 mt-2 rounded-md outline-none   "
                                     />
                                 </div>
@@ -133,7 +136,7 @@ const Info = () => {
                                     <input
                                         id="username"
                                         type="text"
-                                        placeholder="Enter your name"
+                                        placeholder="Enter Your Company Name"
                                         className="block w-full px-4 py-2 mt-2 rounded-md outline-none   "
                                     />
                                 </div>
@@ -148,8 +151,15 @@ const Info = () => {
                                 <textarea
                                     name="comment"
                                     id=""
+                                    placeholder="Tell us more about your query"
                                     className="block w-full h-[120px] px-4 py-2 mt-2 rounded-md outline-none"
                                 ></textarea>
+                            </div>
+                            <div className="mt-5 text-right">
+                                <button className="btn px-6 btn-info text-white">
+                                    Submit Inquiry
+                                    <IoSendSharp />
+                                </button>
                             </div>
                         </form>
                     </div>

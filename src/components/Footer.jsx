@@ -38,7 +38,7 @@ const Footer = () => {
                                 />
                             </div>
                         </div>
-                        <div className="flex gap-6">
+                        <div className="flex gap-6 mt-7">
                             <div>
                                 <img src={clutch} alt="" />
                             </div>
@@ -218,7 +218,7 @@ const Footer = () => {
                 <hr className="h-px my-6 " />
 
                 <div>
-                    <p className="text-center text-gray-500 dark:text-gray-400">
+                    <p className="text-center text-gray-500 text-white">
                         © 2015-2024 Mediusware ltd. All rights reserved.
                     </p>
                 </div>
