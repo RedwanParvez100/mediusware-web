@@ -10,7 +10,7 @@ const About = () => {
                     <div className="relative rounded-2xl overflow-hidden">
                         <img
                             className="w-full"
-                            src="https://s3-alpha-sig.figma.com/img/b5ee/23f2/fdc9294203beb24dd2b5062c13eeaf5b?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VcfU17F0ZRfT7xOWrXwx8AQx4CPC~F6pBwd8wV1cjyr9RZPaDaW4S3xrEQ0sC-pu8RlVLPVbCMNAp4bT6JBIspKg2u~YaZ~IdSJLSns9lXF-UHLxTFS3qs3pkF2KPWv3fh4wgevpkndCwFqd9EXnQJhB9M2AfIXCO-q3vQg8Ya2FLf87-albuvpl5KAQyHsoim025Tc01fLdFlgsGoktT35j4sfo~CDfBHUojobs3Qoq8NpeUaqNVDofRV7-NxLRT74ztcVTDAmoPCsJVXA05KdJJy6Eadd1l8U87550pck9QdLhZ4NV0gU7rfjrbjhhDZ1in9m2434zbiGBgjOEEA__"
+                            src="https://s3-alpha-sig.figma.com/img/b5ee/23f2/fdc9294203beb24dd2b5062c13eeaf5b?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=T-ji2m5J9PGXg0-gklekagivZq1nraBmAkC79P18ucLEJVBIWyLKwXvCY6nMUdt4nCgs6QipIJi1y2-Ye9o8wjyHEsLFC8u4xwxAwKiRtJWCXfwAIJdQq0p51nrIYABAJzeEc9pB11U6-nFHTeaQAgVxqGrEALjc8-aGozhUK92GDgImoAuc4cmWrrkzmVcCkryMP1wIoA~lEHNGNqvahx~KaeRuDddQn~mgspBG~R5EuacSoUBkx-YnzuNZfa51W6n5oU3~PSKL7-wiuVcbypQ0cXtoN5DRXPGiSdgTZPBFBcXFe~iXtsdnPDAka0qU2MpjzuDI5TaqGyFerzJ-fQ__"
                             alt=""
                         />
                         <img

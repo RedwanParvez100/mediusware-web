@@ -64,8 +64,8 @@ const Projects = () => {
                         <figure>
                             <img
                                 className="w-full h-[250px] lg:h-[320px]"
-                                src="https://s3-alpha-sig.figma.com/img/f3dc/d637/15503c2703643402258baa8f4b635cd8?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NxeDpyXN~wOTN-4c2DNrIohwJoGxVKXfAIzw1QrWmZUsLRZnEi~XM0ZoO7TbksBmBzHOM8ETMvK9gHmw0NzYQI63rBlroLlTN1OznjksxsVwADVRDoSPtb4eB7uH33jMxR6vWgX1EwqSibLHt7sRvAL~hFIyZlHQjEOIZn-aYkt9l0K7LYbcXCAdrAe07EYTBS1K6drKj1UNtaWTUpsV6E2KGhvwqzVU5ah3dZFupNekITcP~JyifgoT6pNXS3dkENjU0cHEfmTdbEYVkBxPtBRlpalUNkvU3nevQaC4MORo1LmojL7OJf1xrbCQxGJXHJwsW5swjsM0n9AzomjJCw__"
-                                alt="Shoes"
+                                src="https://s3-alpha-sig.figma.com/img/f3dc/d637/15503c2703643402258baa8f4b635cd8?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aTX6h7dQR6yQMwi1wJVW4iocRQN4XWGMjlHvCoClYgzk~ajrYHdnEMI5TpbYqXvN3HzOHz-nRhTeascIu~izQzbOyjmHwvFtjVKBiGehlxpVP~Z~8P-ArvP9tcnZMN-SUTLycaX~yJRt95WjRcdwIBGqfyOqtJM61xjvUXxEEWyEm2XMJ0eVBV77Iq0v55jZd3H~infZdKxS~xKoLnvrdDer-lkt6-xG~Dhw5MPs0RiiGeqkJyzhrgHOr4O9N7P3P4sbUrhxqznJspWqOq4CrcbSvCwDge25uqILXyUhx6xddfuAE7ppbbPiwqBspVtkeB35hypNgE6vQtexb6d3Ow__"
+                                alt="laptop"
                             />
                         </figure>
                         <div className="card-body bg-[#F0F8FF]">
@@ -93,8 +93,8 @@ const Projects = () => {
                         <figure>
                             <img
                                 className="w-full h-[250px] lg:h-[320px]"
-                                src="https://s3-alpha-sig.figma.com/img/9a0c/6ee6/70499deb64fa0abd378303f7d3e7995b?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QxUSWbFy8Ep92Wm5euV0J4G5eT-oErZgPN22PL4Bg7va-wYx-BTDy5h22VR3k0ECtr5g7AJ7E-urIrBiJjTNCBzyXrL4NNrDBJwBFu0bNG1Gx3D6SnOxsn-fxHcghzCB-R5znbKN79SpzBMRdgu8IbHDJ9lcrXP0~TT9ZFvCR8RJ9hcWUcrFKU1BmqfA7ttKpG2nHn7reujxF8nsOU7JHHcyIJkeEtuFZgYIomywks7JOKQUb2LTZsD1qq5~nXvIQXce2bEh4esDmsmxgnJjP~aBLF3NFiFPYgzIjxzu6O4y6jhkllvTTS~qVy7TDm5LBixsjzei0DgGJGmlL-fGSA__"
-                                alt="Shoes"
+                                src="https://s3-alpha-sig.figma.com/img/9a0c/6ee6/70499deb64fa0abd378303f7d3e7995b?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ldGyKUfinxKnDYb2DUYxEinXmmDjMIUkoKdav1rxKbKaOWHYzj1mzqUGrFEJc4biVBDai75cElOkPhgNxf4B0leGSvWFNJ3SYeZw32oky1HNWoawoTza8AYvRn2wrthnnvvRjw7ooMQBx~dgKYc3kNQRRxvWmO9VR4GwuVuSWYf4Gk9LM3xQG1uGdnc~5GYumh06rIwXEIWMYJMUMYkS04-9Q8Aq7JMauJ4rTtN~luYj~cSSIjynENWFYPdQarXpBG1JqrEGM5BoWTBP8LTLYujxrURLIho7Jk4tAG9nJBw~BP3vqyWK1I5xv3ScTUKyGtdfsuNTk1Q8PzEJYov4QA__"
+                                alt="game launcher"
                             />
                         </figure>
                         <div className="card-body bg-[#F0F8FF]">
@@ -122,8 +122,8 @@ const Projects = () => {
                         <figure>
                             <img
                                 className="w-full h-[250px] lg:h-[320px]"
-                                src="https://s3-alpha-sig.figma.com/img/c24c/3069/68d761117cd21f3db76ef9b9d3626fb6?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UcB00Afjv3WK7VZk64YYjaisvUT7h1nbKUx31IBqQUVFj7W5uZrd1j9-7XNl6txV7OCfqSk5ojiwoHjJFHcDYmPO6Tw~UFUiyYmZai8SCmfKJb-0zJcTJXvSBUYUZDUMwMqgqSv0dDRNr-~P3gelJKqXN7KKU4A5rKvSLkgYThUmdL2xdPnGK85nUCWb7aucdaWSRYeR0gWYaMtJhY7tFP7h8JFzEFj5QIg4xfExt4UBYzu8j-TsCwW4-e68bcDxa37jZ8hbNRW70ts6hJmixJbrn7WMzWzscHW6Rp0qdalCFh1AyUuPqnuQmYauwJcv4Z0EdlEZ~DyDZD9fEFKd1A__"
-                                alt="Shoes"
+                                src="https://s3-alpha-sig.figma.com/img/c24c/3069/68d761117cd21f3db76ef9b9d3626fb6?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PEHNjqn04AK0U--w26UQvd8AoqxC2ulOEhsyko4pTsLwgQJyOgoGfa9UOq9Snwr-VPzk60X1q0Fu51v8XDK-xb1tJHn-AQHbgudwr-TzXeQSThYY1~hEfg2jWq1MHBXmoQtjLuCC7EbAlf2V1wpMlw8vSHYUWVMhjXOHV4Kv23mJ27iaf2RLER7AiI2h8YK3wPZ04n~N7PoIcuib6R2siHT~RTFbLqVk8~iSTe7eieNhSeQ7oxeKkqnW6VRLCeSsakXruS4J2SvS~QTK~GV9C-3Yjj6wu1W0PedbYKZBL9vhwfjlzsYhyng7ICOJdGGvcV6tJzd~MQKeCZB~Ltqq3g__"
+                                alt="learning"
                             />
                         </figure>
                         <div className="card-body bg-[#F0F8FF]">
@@ -150,18 +150,19 @@ const Projects = () => {
                         <figure>
                             <img
                                 className="w-full h-[250px] lg:h-[320px]"
-                                src="https://s3-alpha-sig.figma.com/img/c24c/3069/68d761117cd21f3db76ef9b9d3626fb6?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UcB00Afjv3WK7VZk64YYjaisvUT7h1nbKUx31IBqQUVFj7W5uZrd1j9-7XNl6txV7OCfqSk5ojiwoHjJFHcDYmPO6Tw~UFUiyYmZai8SCmfKJb-0zJcTJXvSBUYUZDUMwMqgqSv0dDRNr-~P3gelJKqXN7KKU4A5rKvSLkgYThUmdL2xdPnGK85nUCWb7aucdaWSRYeR0gWYaMtJhY7tFP7h8JFzEFj5QIg4xfExt4UBYzu8j-TsCwW4-e68bcDxa37jZ8hbNRW70ts6hJmixJbrn7WMzWzscHW6Rp0qdalCFh1AyUuPqnuQmYauwJcv4Z0EdlEZ~DyDZD9fEFKd1A__"
-                                alt="Shoes"
+                                src="https://s3-alpha-sig.figma.com/img/f3dc/d637/15503c2703643402258baa8f4b635cd8?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aTX6h7dQR6yQMwi1wJVW4iocRQN4XWGMjlHvCoClYgzk~ajrYHdnEMI5TpbYqXvN3HzOHz-nRhTeascIu~izQzbOyjmHwvFtjVKBiGehlxpVP~Z~8P-ArvP9tcnZMN-SUTLycaX~yJRt95WjRcdwIBGqfyOqtJM61xjvUXxEEWyEm2XMJ0eVBV77Iq0v55jZd3H~infZdKxS~xKoLnvrdDer-lkt6-xG~Dhw5MPs0RiiGeqkJyzhrgHOr4O9N7P3P4sbUrhxqznJspWqOq4CrcbSvCwDge25uqILXyUhx6xddfuAE7ppbbPiwqBspVtkeB35hypNgE6vQtexb6d3Ow__"
+                                alt="laptop"
                             />
                         </figure>
                         <div className="card-body bg-[#F0F8FF]">
                             <h2 className="card-title font-semibold">
-                                Learn Here
+                                Go Thruhike Website Redesign
                             </h2>
                             <p>
-                                LearnHere is the platform that presents all the
-                                lessons from Beginner to Expert Level with live
-                                and recorded classes.
+                                Thruhike is the ultimate platform for
+                                discovering and sharing your favorite places and
+                                products. Our mission is to celebrate local
+                                business and inspire new experiences.
                             </p>
                             <div className="mt-4">
                                 <button className="flex items-center gap-4 text-[#0C98EB] font-semibold">

@@ -6,7 +6,7 @@ const Banner = () => {
         <div className="relative w-full  overflow-hidden">
             <video
                 className="absolute top-0 left-0 w-full h-full object-cover"
-                src="https://s3-figma-videos-production-sig.figma.com/video/907900026577014002/TEAM/2e15/b653/-bba7-4454-a5cc-3ca982ed3987?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cwc90y4mbRq98Yq5MDu~fEYxtemR5xkgJkeDyim3y541R59PooaSGg2RtzJwyz2g06937BGLjMWK4GRlilOY~dWI9CdP5XNcpMeIjlbywNB2eSUAY05scn5T9teS1Fs1zEJsGtLiCtyapw3945LQecQ1FQied5NjIOBCnJ80tkYJxmVpPtc8BKapZlaFKPBnTT0N-J2mlUjgiWQq4ZgHS~n556a6B4C4vjFlJRjanW3IjqQFB21Dji4lfTKYsoQwIZ17FnhZTzeWPuocaX82Hv4MNGVm6p4582pqITo6bSi2RXR5sgpvQvcYRzrqXqpGYEzLDD5vZxELPrdSjSG98g__"
+                src="https://s3-figma-videos-production-sig.figma.com/video/907900026577014002/TEAM/2e15/b653/-bba7-4454-a5cc-3ca982ed3987?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NiKyjXWcHQbhsK8ZZKDHBGhZqK8ba3WlxUkRHxdHq9OIlnqOT3Zni~6sxgwqCiNpHGfm1fIS~LwLFvePcJsz9RcjJx6EJdL9SZHmB~phqxRaZ-CK0~~c1DMcHJ-t56gkQ2s~b7ILTQHyt8uVYwjysu~npGHxUw5q0RTQ5Ep2bnCSMm9zwo7q0ii27Yf0L2AlsSeNnTtdHSKErfz70trlfjvrNPsuqbzk0nid3OSEnhPszH5Mfgyq4uoqFDd~IaP78mb9fWDNzUyk8pUiVjlB7IX56D1qNz5uGLZOA1MPJ0JrxuBBURViPJdVSBku0BhFvJqFOjdNlW6UlWP2gF3boQ__"
                 autoPlay
                 loop
                 muted
