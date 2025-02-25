@@ -30,7 +30,7 @@ const Info = () => {
                         <div className="relative">
                             <img
                                 className="w-32 lg:w-1/3 rounded-lg"
-                                src="https://s3-alpha-sig.figma.com/img/6c2d/edfe/fb26de1edc5f6ef2809bc526f681b3b5?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VEYYR49WM07GIV5ftGGBNeTBepLS58BkYCZBBx2vL5h79uTZBrRen3K3BfI4Bdv9pinTKmQiDMDwgAeNXy-0ETu4FEa9PqM~O89H6w8j6BW-Ozq8M-rIjqodDhyhhJ0fhEdarB9vTqe2pPm3rgg0Hap1ffca7O6SIaQz8THHNIp0rvDPeDYfbnOpHkd9ZZVC5~kcpOiD-j3HfIeuZokcc4l0taGTS0C9nDXDkiuyK6dq7UGbl0MZE1piqSKEKR3BMxAED-ccPVCn6g20xq5b~SnNEi~2BGpWEGDdNjmzunSBjTPXAwQtt3gcp6mxd2zSkiRz5S6yyrY-wF39h3iaTg__"
+                                src="https://s3-alpha-sig.figma.com/img/6c2d/edfe/fb26de1edc5f6ef2809bc526f681b3b5?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=T7LJxoKXlMYksDgVoZep1ST5RMo~6BLvZptVtdSB7Q9M6bU8S-zTS-~Md1y8JpmwPjJnz5ejrHwG3scSYngc~k78-VGaMP47Yo6ZtNpgm4gQhM5W04Bl64WmHMUvaZGNZypBAjMdsCDj-bs-jT6PERwb0DThThmX3B~A8RGAEqMkSD-3rnS4S85obY4MAG-L1mDPvmi46NrFC-ZCjAyi4-xw2kxBOW9WAxVcIK47yHoxJXoeXc1FfM~6q7oX4pKNIf4BDKaYZOPP6wb4dZVAyDi-T~zOq4g3lVILSovBQaK7k7HlXCmbSjTFLxmOxP-HMIQpQcF3sGHM7vjzv1g1zA__"
                                 alt=""
                             />
                             <div className=" rounded-lg p-4 lg:p-6 absolute bottom-0 left-[30%] md:left-[15%] lg:left-[30%] bg-[#A5EADA4D]/20  backdrop-blur-md">

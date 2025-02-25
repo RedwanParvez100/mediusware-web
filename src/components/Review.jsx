@@ -58,7 +58,7 @@ const Review = () => {
                             <div className="relative">
                                 <img
                                     className="object-cover rounded-lg w-full h-56"
-                                    src="https://s3-alpha-sig.figma.com/img/62b1/3e68/9ae521f93c400d307bb438d094196dc3?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RN46qa4SXru4S6dOXMH46vifkI8FdTfavULvjOyaSNGTCtfaJYVllofmexjBgOcGke9b-8QMVKTDMnnDW0YGtNuPqKH-EqOwjraiJW9FdWA-ZQ1N51DpvX6mp0ZMMqSz6xtE~iQ4fjg8O~MiaRvPiofGjS223FAGFlehW-vPo8j8GahOJZ6jB5qjL4oAYhMHD6yn~P6zIOfGMyk1vDiw8P5yqfQ8WNL03a79TOnqOkvTmu6tC~N6ksugmdhDoOB6EF4UV9AmtlGY5YyOsQOrniJSc1YuhtHMR9EweHPAMf4wPDsq1H1al8v5nZXc6HouKtXSij8V06ODM2xVJ74WdA__"
+                                    src="https://s3-alpha-sig.figma.com/img/62b1/3e68/9ae521f93c400d307bb438d094196dc3?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VEHzui-KdaiL7zILAI84N~abYrni5X9DKx4wlV1CvM0yRrff1rGkta5b~Z3NWaSVpzA2SuBxUl-J2xVqnO1t0i1r5J7Hd8PyQzrjdUdMGXCYJHmjhNtHFSyBRLh-xsOeFHuCZr6urmLzDgHB85sF5RUOkxWZ~WIuVpBQtajPG0m14rgYuAn7QddVptqWM0ECDkKiALHQ5j71SpPJlJD9Hml7wJr7lDvKiL7wfmKaC6clrXHot268ncvWNqEotRoa-yrzNCUKOka5ypar92ISvicARRSxSz~xAx8~mi-Bc4IK-c8mEPiNyFBp68WEjs~9YmA9oSp1UUE51d7Lm-egtw__"
                                     alt="avatar"
                                 />
                                 <img
@@ -82,7 +82,7 @@ const Review = () => {
                             <div className="relative">
                                 <img
                                     className="object-cover rounded-lg w-full h-56"
-                                    src="https://s3-alpha-sig.figma.com/img/a4df/540e/d532a757f7324d13f4bd2f1fe2f47ea8?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n9500uOnBctEr4clSOqlsKzf9SMJl6SIPsHD9FbluM7yDvUBQN510fki3utFSiS70b-KqyTSCpkSCNJTdgnX4XGcscMA9xT5thu-kNhX5sGRZODrPL9fGkvqDwRL~-LMvfvLCd7oGLes3cnZZpPdPcZdlJ~KdzJQobBmOYARxX4sBXvLkRFUBoZAyFNJwTMogDZE-S9rgTnkNIgymWNEiJPGWWKoeMrkyBAMBOTA4XpuU9sv8H5eVJLm6b4acDtrLq0bh4C1NHsVdi7bI7VSHeuoubdhO88IlXR9~ZWvJNc7e~5MwxJelxMj11vke~fjJmfFEAH~J2OPsc76Exo9Kw__"
+                                    src="https://s3-alpha-sig.figma.com/img/a4df/540e/d532a757f7324d13f4bd2f1fe2f47ea8?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XgfCdbgiBxTkgV72Zn0TDJtFw4cQhWLu7o2PaSx1wUOjYSqqog3LiFbIiKXGPfBph6Ta4~SIHJVBb8kmVi9rTISDLT120JD1A02EIg50dB7zCHFPAJQsIs1dCUR2woKgQe2nc-RQhTOUsSp2K5DuVkem2vOBS0InQE03mssfRbJnDZR63Q2Mp98YZKSi94KzkglHBj7uxsvJKZ77gv70tcF4PO~z1yLL260H42Lq-WVOgRSEqZezP-5iuox3NYzVBQxwqVX6-vNhiLZLyytTJvvG6XePs0tiW4nSlzGrF3idhx5GQ24bTzEuzMUgJ7hT7AZerGg7XvOdbjfT7KO51g__"
                                     alt="avatar"
                                 />
                                 <img
@@ -106,7 +106,7 @@ const Review = () => {
                             <div className="relative">
                                 <img
                                     className="object-cover rounded-lg w-full h-56"
-                                    src="https://s3-alpha-sig.figma.com/img/69ac/d89a/c2c424395297e830539581230ce2598b?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ORt1mXZwKpP8QQRwiF5RnCGVw136cNXnqIRjeSoQeVohUv9XljlJYVBhSsD50LYb0f6xK3lYLFa1NQYOYv~AJ3BwnwTjQ~uEswGDFbyA4emh0h~NTr~Paydu~jgS5dWQyfD~Mv44X8jWR9SvBriVE3KnlYHXM3W-BSCciu1hKwJLUP8RQkhwnQD6wimEPJm3qk-JOwLieu01k-fZV3A0quc9yJMl~7DuDvFnZmhsP~PtQRw4rZO2RDwXBpxMmVr788E5obEeBswp0N89PGFrNaTXgjKIfhzbaLkn0t4yHuLKC2SdtPsKgVkzn8~1rWzmsMIsdpTI9cWvcZfolYGY-Q__"
+                                    src="https://s3-alpha-sig.figma.com/img/69ac/d89a/c2c424395297e830539581230ce2598b?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=r-5ZglOOEnyCedcxRcnTfrlNIGyTB8NAdgviheZHsmPyYz3hNu9nQbw2~XZEMZ54SeBZqU3Q2D8M9T~omEmgeIuBsw04k~3WRIaXPagAm9Zx0WgKMW0HQvKSCJRk26cV4T2yvMmSSVNExqzSaQfWdA32oFq-Gqm4CI8K~40bi4T3N~adZTcJZ-OMb4QDz4Ri5FDP4q3J8cLxzNPiFZuBBl~MAfurdmdG3iCQ6oSgRi3~NMRfdgjbKNa0zvYqxHArALrFpkFUg88cbfZWdqDBdDqIx5zUyJp8DW05Wp6CrG6pdAdRLxqKZDpHpsPxL1XBakTKvyaXHQHnuivbjNgEiQ__"
                                     alt="avatar"
                                 />
                                 <img
@@ -132,7 +132,7 @@ const Review = () => {
                             <div className="relative">
                                 <img
                                     className="object-cover rounded-lg w-full h-56"
-                                    src="https://s3-alpha-sig.figma.com/img/62b1/3e68/9ae521f93c400d307bb438d094196dc3?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RN46qa4SXru4S6dOXMH46vifkI8FdTfavULvjOyaSNGTCtfaJYVllofmexjBgOcGke9b-8QMVKTDMnnDW0YGtNuPqKH-EqOwjraiJW9FdWA-ZQ1N51DpvX6mp0ZMMqSz6xtE~iQ4fjg8O~MiaRvPiofGjS223FAGFlehW-vPo8j8GahOJZ6jB5qjL4oAYhMHD6yn~P6zIOfGMyk1vDiw8P5yqfQ8WNL03a79TOnqOkvTmu6tC~N6ksugmdhDoOB6EF4UV9AmtlGY5YyOsQOrniJSc1YuhtHMR9EweHPAMf4wPDsq1H1al8v5nZXc6HouKtXSij8V06ODM2xVJ74WdA__"
+                                    src="https://s3-alpha-sig.figma.com/img/5cfa/c46b/4d013142b5221088852e53950024e969?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kqa8qPNyIh6vr6jLvd6kGNv6FwqF~GjGie~MR2W9u9Wz824AqZxDaeLaNtZFtD4lI1Lk7F5nN1ZF4snWyweaxhGxHxH5tthJsUfCIJgjFEFaLC90B4lnCFp5Tuidh9gLEn~dOl5s8kKitQfKHPbJj4-F6zCQR7~xYba~tyrG8V53rejNPCt0OohQbwjIXHi8CiU15uMOq~MjY-5-LO3vXWzthZUup5Q8q9BQXnLRa1B6Qkai2rYmnTrIiaAiyjcfGVfSKI9rgBrv~YjqZlWiPFwTtOA70BcpFsrwSDzaWrvUhp1Wny0epHMIo94htqP7IveR5LSx64q4nR9OL6dzPg__"
                                     alt="avatar"
                                 />
                                 <img
@@ -143,11 +143,13 @@ const Review = () => {
                             </div>
                             <div className="pt-5">
                                 <h3 className="text-lg font-medium mb-4">
-                                    Mediusware renewed our trust in outsourcing
-                                    IT development in the USA.
+                                    Working with Mediusware has been a
+                                    game-changer for Thruhike.
                                 </h3>
-                                <p>Jenny Wilson</p>
-                                <p className="text-sm">CEO, Company Name</p>
+                                <p>Katherine Van Hengel</p>
+                                <p className="text-sm">
+                                    CEO of Thruhike (goThruhike.com)
+                                </p>
                             </div>
                         </div>
                     </SwiperSlide>

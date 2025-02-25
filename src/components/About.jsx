@@ -4,13 +4,13 @@ import { FiPhoneCall } from "react-icons/fi";
 
 const About = () => {
     return (
-        <div className=" py-28 bg-[#F0F8FF]">
+        <div id="about" className=" py-28 bg-[#F0F8FF]">
             <div className="container mx-auto relative px-3 md:px-0">
                 <div className="w-full lg:w-[703px] border-green-700 lg:relative">
                     <div className="relative rounded-2xl overflow-hidden">
                         <img
                             className="w-full"
-                            src="https://s3-alpha-sig.figma.com/img/b5ee/23f2/fdc9294203beb24dd2b5062c13eeaf5b?Expires=1735516800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=T-ji2m5J9PGXg0-gklekagivZq1nraBmAkC79P18ucLEJVBIWyLKwXvCY6nMUdt4nCgs6QipIJi1y2-Ye9o8wjyHEsLFC8u4xwxAwKiRtJWCXfwAIJdQq0p51nrIYABAJzeEc9pB11U6-nFHTeaQAgVxqGrEALjc8-aGozhUK92GDgImoAuc4cmWrrkzmVcCkryMP1wIoA~lEHNGNqvahx~KaeRuDddQn~mgspBG~R5EuacSoUBkx-YnzuNZfa51W6n5oU3~PSKL7-wiuVcbypQ0cXtoN5DRXPGiSdgTZPBFBcXFe~iXtsdnPDAka0qU2MpjzuDI5TaqGyFerzJ-fQ__"
+                            src="https://s3-alpha-sig.figma.com/img/b5ee/23f2/fdc9294203beb24dd2b5062c13eeaf5b?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=g8QuI0bWgZMSiH2dCvK9m5AFbKxkspKsKdYjHdr~ytSeY-H8~xFeYzUO6sUeTpctS-r~7q1PKK~Bvnc9Ci~FYF-cbqQM3F8NSj0h5qKxxL64M-BgGN4Zo~QhezW2bibG0uYcBTdmA-dV2B1yY9lPhrpl6AqiD1zuvYamsyZtPD4azGoffymWeUkJAvh9xpuTYFab7c-8Od-lptoVN1QV0Hs7AAi6eJlwW~HmNEArdsvnZcdT5YVNWim3H2GDYZk2E3oGwZZsmsoeCdBKiT-e9aDIiKlZ6~vX9nSQGmsRF8o1ZynBrwKIdTXyp-BaystgdxW7aqAgmTVHF0lrqf0TxQ__"
                             alt=""
                         />
                         <img

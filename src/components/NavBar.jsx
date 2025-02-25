@@ -32,30 +32,36 @@ export const NavBar = () => {
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
                         >
                             <li>
-                                <a className="underline text-white">Home</a>
+                                <a className="text-white">Home</a>
                             </li>
                             <li>
                                 <a className="text-white">Services</a>
                                 <ul className="p-2 bg-slate-900 text-white">
                                     <li>
-                                        <a>Web Development</a>
+                                        <a href="#good">Web Development</a>
                                     </li>
                                     <li>
-                                        <a>Software Development</a>
+                                        <a href="#good">Software Development</a>
                                     </li>
                                     <li>
-                                        <a>App Development</a>
+                                        <a href="#good">App Development</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <a className="text-white">Projects</a>
+                                <a href="#projects" className="text-white">
+                                    Projects
+                                </a>
                             </li>
                             <li>
-                                <a className="text-white">About Us</a>
+                                <a href="#about" className="text-white">
+                                    About Us
+                                </a>
                             </li>
                             <li>
-                                <a className="text-white">Contact Us</a>
+                                <a href="#contact" className="text-white">
+                                    Contact Us
+                                </a>
                             </li>
                         </ul>
                     </div>
@@ -66,7 +72,7 @@ export const NavBar = () => {
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
                         <li>
-                            <a className="underline text-white">Home</a>
+                            <a className="text-white">Home</a>
                         </li>
                         <li>
                             <details>
@@ -75,25 +81,31 @@ export const NavBar = () => {
                                 </summary>
                                 <ul className="p-2 bg-slate-900 text-white">
                                     <li>
-                                        <a>Web Development</a>
+                                        <a href="#good">Web Development</a>
                                     </li>
                                     <li>
-                                        <a>Software Development</a>
+                                        <a href="#good">Software Development</a>
                                     </li>
                                     <li>
-                                        <a>App Development</a>
+                                        <a href="#good">App Development</a>
                                     </li>
                                 </ul>
                             </details>
                         </li>
                         <li>
-                            <a className="text-white">Projects</a>
+                            <a href="#projects" className="text-white">
+                                Projects
+                            </a>
                         </li>
                         <li>
-                            <a className="text-white">About Us</a>
+                            <a href="#about" className="text-white">
+                                About Us
+                            </a>
                         </li>
                         <li>
-                            <a className="text-white">Contact Us</a>
+                            <a href="#contact" className="text-white">
+                                Contact Us
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -127,7 +139,7 @@ export const NavBar = () => {
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
                         >
                             <li>
-                                <a className="underline text-white">Home</a>
+                                <a className="text-white">Home</a>
                             </li>
                             <li>
                                 <a className="text-white">Services</a>
@@ -144,13 +156,13 @@ export const NavBar = () => {
                                 </ul>
                             </li>
                             <li>
-                                <a>Projects</a>
+                                <a href="#projects">Projects</a>
                             </li>
                             <li>
-                                <a>About Us</a>
+                                <a href="#about">About Us</a>
                             </li>
                             <li>
-                                <a>Contact Us</a>
+                                <a href="#contact">Contact Us</a>
                             </li>
                         </ul>
                     </div>
