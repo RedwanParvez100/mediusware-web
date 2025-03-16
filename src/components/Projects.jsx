@@ -1,4 +1,8 @@
 import React, { useRef, useState } from "react";
+import projects1 from "/images/projects1.jpg";
+import projects2 from "/images/projects2.jpg";
+import projects3 from "/images/projects3.jpg";
+import projects4 from "/images/projects4.jpg";
 import { IoIosArrowForward } from "react-icons/io";
 import { IoArrowForward } from "react-icons/io5";
 
@@ -67,7 +71,7 @@ const Projects = () => {
                         <figure>
                             <img
                                 className="w-full h-[250px] lg:h-[320px]"
-                                src="https://s3-alpha-sig.figma.com/img/f3dc/d637/15503c2703643402258baa8f4b635cd8?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=jtJdaSSvsNbgChOyI~zHn0PDYB-7U3IjuGKSTDVfbplNI4HiyIKhkmNWgLUQlC0EO-3YF1WhCzrqDfyKDm9E~fHPFyV~UZh7Gqki2xGhid5oJJidVUJbQWzAaYSB8RUXLx-FYtaAgweCGV2Ex5PuDcL18rV7cgM7HQg0Sl8terTVHq72ZgyWaqb-wg6jYrWhiQs5WUBeJ8OCdWkXQn4GRHLN8nvfG4GF-~yDbhFlisx6GItMcdYtAt1ZKsfTIyZT71ETcX6~0rcw11WFJMbjaQns31VkKgNXiZrc4OeSf3JJKPBy24UhafpSPWd7d~MAW3ZEBMPjRO9pQZ4vF4kj~w__"
+                                src={projects1}
                                 alt="laptop"
                             />
                         </figure>
@@ -96,7 +100,7 @@ const Projects = () => {
                         <figure>
                             <img
                                 className="w-full h-[250px] lg:h-[320px]"
-                                src="https://s3-alpha-sig.figma.com/img/9a0c/6ee6/70499deb64fa0abd378303f7d3e7995b?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=C113k0lPG-EtwSvCLXVHhc0WXNKZv4vJD8Nz5Y4z3b73fdNHfbh3yRAhEFSAktsEOHxGs5LO12Xaqxtm3ymzpwvQnE7D0PyYJ6iQc6yDPSD9pnCcREya2bPBfb-Hma89Jq32BTKHR5rf1D35tLjD68TE272cS6qcDMD-pflByfg18jEhBK9U0SlDV0e4hfrTUtVC7ALWYOFmtfNDnSEp-fXHJXUAQuMpvBVVCF3PKTKG-MK4xFt-6tOp1rJOEHl1mCqFl23RoHRUxkITP5dDTqEEGtrS8pCR24WfMubnEiDinjb5ZQTMZ5b4twIzUkNVC4vXTKwuSBCYFuY~8-xtcg__"
+                                src={projects2}
                                 alt="gamezone launcher"
                             />
                         </figure>
@@ -125,7 +129,7 @@ const Projects = () => {
                         <figure>
                             <img
                                 className="w-full h-[250px] lg:h-[320px]"
-                                src="https://s3-alpha-sig.figma.com/img/c24c/3069/68d761117cd21f3db76ef9b9d3626fb6?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IwpiAspzYGYcaDr9QAa-2QZr3MdjxDcscqKjr5Th~eY6fZ7i61moOiftGxTukfyw4K2YYTtDPTEtYMdonS9DPtX6gf6MXk4FZ5byPhVkJMaX43AKr~fZlVgHdTNpQUIECuOpN5nfqVjt4P2ktSokaovo2xnKiddlqaSAxANSoUnmLnw2fh47am-~bxfc1h-qwSPE7YGrn3i1Lb3hBm9kwlcleFpWJCLO9pcKXGdJ0FceIh-hdmTsRq4Tv8432bnEKX6Lh87ZvO-L86k6OcRJIej2EwU6~k2Zr09Ajui~NN-a~KnaXJyP8nAh2tNKCyH42zhhSusWmJwpHf0-KQABmw__"
+                                src={projects3}
                                 alt="learning"
                             />
                         </figure>
@@ -153,7 +157,7 @@ const Projects = () => {
                         <figure>
                             <img
                                 className="w-full h-[250px] lg:h-[320px]"
-                                src="https://s3-alpha-sig.figma.com/img/37a3/6b2f/df66fbe04daaed700f1ad2bc2db1682f?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=DJ0OcEymJQaGyAM1FgmzlnIIKF7brf4kHjgcOAdaoGje4afI5NxOf8N9B4T-Qt6sq-VKrZu2LKFbhZbjWzPuKN~hGAa1h97QVdVZweqnF~dHtcPNgES6ik3EMhTX1Puy40sRTDbirsvwt4~FlkhyL4oMc-qoNc6r0QoGy9FcdF86fZLwcJOT9bDf1hhxYk2RYe3Wq9reBx1ykh47ocqqCbqy2Yhihk7mKkuitbag06iZGT6Cm5ZxntCa9vsiYbFEJHhHE146yRUib1SW-yvmucBNghnuvfR3Q5edRqMaYSX5ki8LRfT0tnf34zhnWTxq7US1MT8qZUFahmTZprr1Ag__"
+                                src={projects4}
                                 alt="laptop"
                             />
                         </figure>

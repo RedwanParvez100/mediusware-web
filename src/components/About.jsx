@@ -1,6 +1,7 @@
 import React from "react";
 import { FiDownload } from "react-icons/fi";
 import { FiPhoneCall } from "react-icons/fi";
+import about from "/images/about.png";
 
 const About = () => {
     return (
@@ -8,11 +9,7 @@ const About = () => {
             <div className="container mx-auto relative px-3 md:px-0">
                 <div className="w-full lg:w-[703px] border-green-700 lg:relative">
                     <div className="relative rounded-2xl overflow-hidden">
-                        <img
-                            className="w-full"
-                            src="https://s3-alpha-sig.figma.com/img/b5ee/23f2/fdc9294203beb24dd2b5062c13eeaf5b?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=g8QuI0bWgZMSiH2dCvK9m5AFbKxkspKsKdYjHdr~ytSeY-H8~xFeYzUO6sUeTpctS-r~7q1PKK~Bvnc9Ci~FYF-cbqQM3F8NSj0h5qKxxL64M-BgGN4Zo~QhezW2bibG0uYcBTdmA-dV2B1yY9lPhrpl6AqiD1zuvYamsyZtPD4azGoffymWeUkJAvh9xpuTYFab7c-8Od-lptoVN1QV0Hs7AAi6eJlwW~HmNEArdsvnZcdT5YVNWim3H2GDYZk2E3oGwZZsmsoeCdBKiT-e9aDIiKlZ6~vX9nSQGmsRF8o1ZynBrwKIdTXyp-BaystgdxW7aqAgmTVHF0lrqf0TxQ__"
-                            alt=""
-                        />
+                        <img className="w-full" src={about} alt="" />
                         <img
                             className="absolute w-14 lg:w-20 top-1/2 left-1/2 -translate-x-1/2  -translate-y-1/2 z-50"
                             src="./images/play.png"
